@@ -1,0 +1,106 @@
+h2 {
+    font-weight: bold;
+}
+
+.red {
+    color: #bb000d;
+}
+
+.white {
+    color: white;
+}
+
+.page-height {
+    height: 1000px;
+}
+
+.first-page-height {
+    height: 100vh;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000000;
+}
+
+.row-down {
+    padding-top: 7rem;
+}
+
+.footer-font-size {
+    font-size: 0.7rem;
+    font-weight: lighter;
+}
+.padding-left {
+    padding-left: 8rem;
+}
+
+.bg-color {
+    background-color: #bb000d ;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+
+
+a:hover {
+    color: black;
+}
+
+.red-hover:hover {
+    color: #bb000d;
+}
+
+.white-hover:hover {
+    color: white;
+}
+
+p {
+    color: #000000;
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+
+.font-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-size {
+    font-size: 1.7rem;
+    font-weight: normal;
+}
+
+
+.font-size-big {
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.font-size-medium {
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+
+.font-size-small {
+    font-size: 1.4rem;
+    font-weight: lighter;
+}
+
+body {
+    background-color: #e5e5e5;
+}
+
+.nav-item {
+    font-weight: lighter;
+}
+
+.margin-zero {
+    margin: 6px;
+}
